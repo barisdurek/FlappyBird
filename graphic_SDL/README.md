@@ -1,5 +1,5 @@
-# Flappy Bird - Game Engine version-2 with SDL:
-A version of Flappy Bird developed using the SDL library. In this game, the player controls a bird to fly through pipes and tries to achieve the highest score possible while avoiding collisions. Works on WSL Ubuntu.
+# Flappy Bird with SDL Library
+A version of Flappy Bird developed using the SDL library.
 
 ### Downloading the libraries:
 ```
@@ -15,3 +15,8 @@ make
 ```
 ./flappy
 ```
+
+### Screenshots from the game:
+![Ekran görüntüsü 2025-04-28 132729](https://github.com/user-attachments/assets/651b1d8e-72af-4e2d-9924-6e1685b28d15)
+![Ekran görüntüsü 2025-04-28 132805](https://github.com/user-attachments/assets/9104d2fd-98cd-4dbb-9167-963b70f153f4)
+![Ekran görüntüsü 2025-04-28 132830](https://github.com/user-attachments/assets/77c2566e-822a-40e1-8cb4-a3985c5c7f35)
