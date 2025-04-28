@@ -13,7 +13,7 @@ wsl --install
 ```
 
 ## Games
-* This repository have 5 different game environment version of the "Flappy Bird" game.
+* This repository have 5 different game environment versions of the "Flappy Bird" game.
 
 #### console : Written in C language and uses library "ncurses"
 ![Ekran görüntüsü 2025-04-28 131642](https://github.com/user-attachments/assets/9bfc27c6-35c8-4c44-80fd-2e8eebee5f92)
@@ -28,7 +28,7 @@ wsl --install
 
 * You can clone the repository with command:
 ```
-https://github.com/barisdurek/FlappyBird
+git clone https://github.com/barisdurek/FlappyBird
 ```
 and try the games.
 * Each version has its own instructions for building and running the game.<br><br>
