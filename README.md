@@ -17,14 +17,19 @@ wsl --install
 
 #### console : Written in C language and uses library "ncurses"
 ![Ekran görüntüsü 2025-04-28 131642](https://github.com/user-attachments/assets/9bfc27c6-35c8-4c44-80fd-2e8eebee5f92)
-#### graphic_SDL : Version using the SDL library.
-![Ekran görüntüsü 2025-04-28 132805](https://github.com/user-attachments/assets/37b8ce8e-5ac0-4acf-9377-b41397d17ca8)
-#### graphic_SFML : Version using the SFML library.
-![Ekran görüntüsü 2025-04-28 133542](https://github.com/user-attachments/assets/d20c5704-a4ee-4321-892a-4bbe0af5a1fa)
 #### mkeykernel : Version running on the "mkeykernel" environment.
 ![Ekran görüntüsü 2025-04-28 134436](https://github.com/user-attachments/assets/90c411cb-3ae3-49a2-abc9-39dac7f68290)
+#### graphic_SFML : Version using the SFML library.
+![Ekran görüntüsü 2025-04-28 133542](https://github.com/user-attachments/assets/d20c5704-a4ee-4321-892a-4bbe0af5a1fa)
+#### graphic_SDL : Version using the SDL library.
+![Ekran görüntüsü 2025-04-28 132805](https://github.com/user-attachments/assets/37b8ce8e-5ac0-4acf-9377-b41397d17ca8)
 #### opengl : Version powered by the OpenGL library.
 ![Ekran görüntüsü 2025-04-28 141222](https://github.com/user-attachments/assets/85a1d9be-ba70-4062-9929-c06f7d99cd20)
 
-* Each version has its own instructions for building and running the games.<br><br>
-Enjoy
+* You can clone the repository with command:
+```
+https://github.com/barisdurek/FlappyBird
+```
+and try the games.
+* Each version has its own instructions for building and running the game.<br><br>
+Enjoy it!
